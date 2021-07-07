@@ -1,2 +1,2 @@
 console.log("fuck u")
-process.exit()
+process.exit() 
