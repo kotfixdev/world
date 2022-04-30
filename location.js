@@ -1,4 +1,4 @@
 let ai
 let humans = ai
-console.log("fuck u")
+console.log("**** u")
 process.exit() 
